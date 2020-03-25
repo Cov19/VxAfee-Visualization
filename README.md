@@ -1,4 +1,4 @@
-# VxAfee Visualization
+# [VxAfee Visualization](https://cov19.github.io/VxAfee-Visualization/)
 Visualization of [VxAfee](https://github.com/feraliscatus/VxAfee) Design Proposal
 
 Please keep in mind:
